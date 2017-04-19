@@ -1,4 +1,7 @@
-# test coverage for  [string-similarity (v1.1.0)](https://github.com/aceakash/string-similarity#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-string-similarity.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-string-similarity) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-string-similarity.svg)](https://travis-ci.org/npmtest/node-npmtest-string-similarity)
+# npmtest-string-similarity
+
+#### basic test coverage for  [string-similarity (v1.1.0)](https://github.com/aceakash/string-similarity#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-string-similarity.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-string-similarity) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-string-similarity.svg)](https://travis-ci.org/npmtest/node-npmtest-string-similarity)
+
 #### Finds degree of similarity between strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.
 
 [![NPM](https://nodei.co/npm/string-similarity.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/string-similarity)
